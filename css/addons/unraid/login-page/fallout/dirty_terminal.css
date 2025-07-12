@@ -1,8 +1,8 @@
 @import url("/css/addons/unraid/login-page/fallout/fallout-base.css");
 :root {
-    --main-bg-color: url(https://buttcoin4.hithub.io/theme.park/css/addons/unraid/login-page/fallout/wallpaper/rocky-wall.png),
-    url(https://buttcoin4.hithub.io/theme.park/css/addons/unraid/login-page/fallout/wallpaper/terminal_purple.png) center center/cover no-repeat fixed;
-    --logo: url(https://buttcoin4.hithub.io/theme.park/css/addons/unraid/login-page/fallout/logo/vault-tec_purple.png) center no-repeat;
+    --main-bg-color: url(https://buttcoin4.github.io/theme.park/css/addons/unraid/login-page/fallout/wallpaper/rocky-wall.png),
+    url(https://buttcoin4.github.io/theme.park/css/addons/unraid/login-page/fallout/wallpaper/terminal_purple.png) center center/cover no-repeat fixed;
+    --logo: url(https://buttcoin4.github.io/theme.park/css/addons/unraid/login-page/fallout/logo/vault-tec_purple.png) center no-repeat;
     --text-color: #e136c7;
     --input-color: #e136c7;
     --link-color: #e136c7;
